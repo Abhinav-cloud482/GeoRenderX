@@ -97,9 +97,21 @@ Distance: 0.08
 ```
 
 
+## Screenshots
+
+
+<img width="988" height="629" alt="Output 1" src="https://github.com/user-attachments/assets/e8b57f65-0b79-483c-afa3-b7b03621000f" />
+
+
+
+<img width="1007" height="605" alt="Output 2" src="https://github.com/user-attachments/assets/378fb566-6249-43c8-84fa-d38211309ee0" />
+
+
+
+
 ## Why This Project Matters
 
-This project demonstrates the **core building blocks** behind real-world systems such as:
+This project demonstrates the **core building blocks** behind real-world systems such as :-
 
 * 3D modeling software
 * CAD systems
